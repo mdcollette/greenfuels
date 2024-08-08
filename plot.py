@@ -1,5 +1,5 @@
-
-
+## (C) Matthew Collette 2024
+## See license file in repository for details
 
 import pandas as pd
 import matplotlib.pyplot as plt
