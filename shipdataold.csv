@@ -1,0 +1,23 @@
+Name,Type of Fuel,DWT,MJ Energy, Vessel Type
+Bastø Electric,Battery,1.35E+03,15480,Ferry
+Ampere,Battery,1.99E+02,3600,Ferry
+Ellen,Battery,1.87E+02,15480,Ferry
+Rygerelektra,Battery,3.20E+01,7560,Ferry
+Legacy of the Fjord,Battery,4.10E+01,6480,Ferry
+Alphenaar,Battery,1.96E+03,14400,Inland
+Tycho Brahe,Battery,2.50E+03,23040,Ferry 
+Nave Electron,Heavy Fuel Oil,3.00E+05,295955742,Deep Ocean
+MSC Elisa XIII,Heavy Fuel Oil,1.41E+05,526142661,Deep Ocean
+Spread Eagle,Heavy Fuel Oil,5.46E+04,117331707,Deep Ocean
+Glovis Maple,Heavy Fuel Oil,5.57E+04,80858176.5,Deep Ocean
+Jasper Dream,Heavy Fuel Oil,2.07E+05,247335460.2,Deep Ocean
+H2 Barge 1,H2,3.04E+03,108000,Inland
+MF Hydra,H2,1.88E+02,681600,Ferry 
+Vessel 1,H2 Study,5.34E+01,25440,Ferry
+Vessel 2,H2 Study,7.52E+00,11400,Ferry
+Vessel 3,H2 Study,3.57E+01,164280,Ferry
+Vessel 4,H2 Study,6.95E+01,93120,Ferry
+Vessel 5,H2 Study,2.29E+02,487680,Ferry
+Chad Pregracke Linehaul 10000 hp Towboat 40 barges,Diesel-Inland Towboat,60000,19713200,Inland towboat
+4000 hp towboat 15 barges,Diesel-Inland Towboat,22500,13045500,Inland towboat
+Laura Maersk,Methanol,32614,22092980,

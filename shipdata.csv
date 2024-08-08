@@ -1,5 +1,5 @@
 Name,Type of Fuel,DWT,MJ Energy, Vessel Type,Est DWT,Status,Source,Notes
-Bast√∏ Electric,Battery,1.35E+03,15480,Ferry,0,1,MarineTraffic and https://no.wikipedia.org/wiki/MF_%C2%ABBast%C3%B8_Electric%C2%BB,Other sources give slightly smaller battery at 4000 kWhr
+Basto  Electric,Battery,1.35E+03,15480,Ferry,0,1,MarineTraffic and https://no.wikipedia.org/wiki/MF_%C2%ABBast%C3%B8_Electric%C2%BB,Other sources give slightly smaller battery at 4000 kWhr
 Ampere ,Battery,1.99E+02,3600,Ferry,0,1,MarineTraffic and https://en.wikipedia.org/wiki/MV_Ampere,
 Ellen,Battery,2.00E+02,15480,Ferry,0,1,MarineTraffic and https://en.wikipedia.org/wiki/E-ferry_Ellen,
 COSCO Green Water 01,Battery,7.70E+03,180000,Inland,1,1,https://mp.weixin.qq.com/s/KoaPusDrnfpMiOIrY9i-ug and https://maritime-executive.com/article/largest-electric-battery-powered-containerships-commissioned-in-china,
@@ -13,10 +13,10 @@ OEL India,Heavy Fuel Oil,1.35E+04,46090908,Coastal,0,1,https://www.transworld.co
 Nave Electron,Heavy Fuel Oil,3.13E+05,277531225,Deep Ocean,0,1,https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9890989,
 MAERSK FREDERICIA ,Heavy Fuel Oil,7.65E+04,144027383,Deep Ocean,0,1,https://www.classnk.or.jp/register/regships/one.aspx,
 OOCL Sweden,Heavy Fuel Oil,2.28E+05,684266100,Deep Ocean,0,1,eagle.org search on class number 24283614,
-H2 Barge 2,CH2,2.20E+03,119960,Inland,1,1,https://futureproofshipping.com/about/fleet/,
-MF Hydra,H2,2.30E+02,479840,Ferry,1,1,https://aws-a.medias-ccifi.org/fileadmin/cru-1713531284/norvege/user_upload/Norled_port_presentation_27.05.21.pdf,
-Sea Change,CH2,7.04E+00,29030.32,Ferry,1,1,https://www.businesswire.com/news/home/20211130005437/en/SWITCH-Maritime-Completes-First-Ever-Hydrogen-Fueling-of-Maritime-Vessel-in-US,
-Damen 2812 FF-H2,CH2,5.00E+00,88290.6,Workboat,1,0,https://www.marinelog.com/inland-coastal/coastal/cmb-tech-and-damen-agree-to-build-four-hydrogen-dual-fuel-tugs/?utm_source=&utm_medium=email&utm_campaign=46057,
+H2 Barge 2,Compressed H2,2.20E+03,119960,Inland,1,1,https://futureproofshipping.com/about/fleet/,
+MF Hydra,Liquid H2,2.30E+02,479840,Ferry,1,1,https://aws-a.medias-ccifi.org/fileadmin/cru-1713531284/norvege/user_upload/Norled_port_presentation_27.05.21.pdf,
+Sea Change,Compressed H2,7.04E+00,29030.32,Ferry,1,1,https://www.businesswire.com/news/home/20211130005437/en/SWITCH-Maritime-Completes-First-Ever-Hydrogen-Fueling-of-Maritime-Vessel-in-US,
+Damen 2812 FF-H2,Compressed H2,5.00E+00,88290.6,Workboat,1,0,https://www.marinelog.com/inland-coastal/coastal/cmb-tech-and-damen-agree-to-build-four-hydrogen-dual-fuel-tugs/?utm_source=&utm_medium=email&utm_campaign=46057,
 Laura Maersk,Methanol,3.26E+04,21119070,Coastal,0,1,https://www.marinelog.com/news/landmark-methanol-fueled-containership-named-laura-maersk/,
 Ane Maersk,Methanol,189508,241360800,Deep Ocean,0,1,MarinteTraffic and https://www.bairdmaritime.com/shipping/boxships/vessel-review-ane-maersk-methanol-powered-boxship-boasts-16000teu-capacity,
 Bocimar,Ammonia,2.10E+05,65367600,Deep Ocean,0,0,http://cimcsoe.com/en/news_in.aspx?id=466 and https://maritime-executive.com/index.php/article/wingd-and-cbm-tech-partner-for-first-ammonia-fueled-bulkers,
