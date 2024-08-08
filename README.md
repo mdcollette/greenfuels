@@ -49,7 +49,7 @@ LHV Methanol is assumed at 20.1 MJ/kg, S.G. 0.79, loading was assumed possible t
 Ammonia is assumed to be carried in pressurized Type-C tanks.  A LHV of 18.8 MJ/kg is assumed with a s.g. of 0.61 for storage as a compressed liquid. 95% filling is assumed. 
 
 
-## Rules of Estimated DWT
+## Rules for Estimated DWT
 
 For Cosco Green Water 1, 
 700 TEU @ 11 MT  + 10 Crew, food, water, effects (0.3 MT each) = 7703 MT
